@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexvitca/React_counter.git/static/css/main.eb0e962d.chunk.css",
+    "main.js": "/alexvitca/React_counter.git/static/js/main.6a0a1219.chunk.js",
+    "main.js.map": "/alexvitca/React_counter.git/static/js/main.6a0a1219.chunk.js.map",
+    "runtime-main.js": "/alexvitca/React_counter.git/static/js/runtime-main.6af887a6.js",
+    "runtime-main.js.map": "/alexvitca/React_counter.git/static/js/runtime-main.6af887a6.js.map",
+    "static/js/2.8eb17860.chunk.js": "/alexvitca/React_counter.git/static/js/2.8eb17860.chunk.js",
+    "static/js/2.8eb17860.chunk.js.map": "/alexvitca/React_counter.git/static/js/2.8eb17860.chunk.js.map",
+    "static/js/3.b56bdbdb.chunk.js": "/alexvitca/React_counter.git/static/js/3.b56bdbdb.chunk.js",
+    "static/js/3.b56bdbdb.chunk.js.map": "/alexvitca/React_counter.git/static/js/3.b56bdbdb.chunk.js.map",
+    "index.html": "/alexvitca/React_counter.git/index.html",
+    "static/css/main.eb0e962d.chunk.css.map": "/alexvitca/React_counter.git/static/css/main.eb0e962d.chunk.css.map",
+    "static/js/2.8eb17860.chunk.js.LICENSE.txt": "/alexvitca/React_counter.git/static/js/2.8eb17860.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alexvitca/React_counter.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6af887a6.js",
+    "static/js/2.8eb17860.chunk.js",
+    "static/css/main.eb0e962d.chunk.css",
+    "static/js/main.6a0a1219.chunk.js"
+  ]
+}
